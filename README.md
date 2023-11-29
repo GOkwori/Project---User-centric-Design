@@ -1,39 +1,93 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# D-GRIX Official Site
 
-Welcome,
+## UX
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+### Project Goals
+The main objective of the D-GRIX Official Website is to deliver an attractive and enlightening platform catering to all fans. The website is designed to showcase the band's history, highlight their most recent releases, and streamline the booking process for event organisers. Additionally, the project is aligned with broader business objectives, seeking to enhance both music and merchandise sales while securing additional event bookings.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+### Fans & Potential Fans Goals
+* Learn about the band's history and achievements.
+* Discover and listen to the latest music releases.
+* Stay informed about upcoming shows and events.
+* Explore the full music catalog and purchase merchandise.
 
-## Codeanywhere Reminders
+### Event Organisers Goals
+* Simplify and expedite the bank booking process
+* Provide clear information about the band's availability for events
+* Ensure collaboration for seamless and successful events
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+### Developer & Business Goals
+* Create a visually appealing and user-friendly website.
+* Increase online presence and engagement.
+* Boost music and merchandise sales.
+* Streamline the booking process for event organisers.
 
-`python3 -m http.server`
+### User Stories
+1. As a fan, I want to;
+   * Easily find information about the band's history and achievements
+   * Find out about the band's upcoming events & Concerts
+   * Be able explore the band's music catalogue to listen and purchase their songs
+   * View the band's music and concert videos
+   * View the band's merchandise and acessories to purchase them
+   * View photo gallery of events and tours
+2. As an event organiser, I want to;
+   * Easily book the band for events
+   * Know the availability of the band
+   * Know the locations the band can perform in
+   * Communicate event requirements to the band
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+### Design Choices
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+#### Fonts
 
-`http_server`
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+#### Icons
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+#### Colours
 
-To log into the Heroku toolbelt CLI:
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+#### Styling
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
 
----
+#### Background
 
-Happy coding!
+
+#### Audio Files
+
+
+#### Video Files
+
+
+### Wireframes
+
+
+
+## Features
+* Home Page with Introduction, Band history & members, Latest Release, Latest Videos and Upcoming Events Sections
+* Gallery Page showing full catalogue of Albums, videos, songs and merchandise store sections
+* Tour Page with Upcoming Shows across different locations
+* Bookings Page with Bookings
+
+## Technologies Used
+* HTML5
+* CSS3
+
+## Testing
+
+
+## Deployment
+
+
+## Credits
+
+### Content
+
+
+### Media
+
+
+### Code
+
+
+### Acknowledgement
